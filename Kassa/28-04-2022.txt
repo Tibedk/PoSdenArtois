@@ -1,0 +1,88 @@
+datum: 28-04-2022
+verwarming: False
+
+//Logboek
+19:36:52;checkin;tdk;Tibe De Kort
+19:36:52;checkin;rl;Rune Laenen
+19:36:52;checkin;rp;Ruan Pauwlussen
+19:36:56;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+19:36:58;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+19:50:11;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+19:50:21;checkin;avd;Arthur Van Dooren
+19:50:26;order;avd;Arthur Van Dooren;601;Cola;0.80
+19:50:46;order;avd;Arthur Van Dooren;999;Terubetaling poef;-50
+20:22:56;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+20:22:56;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+20:57:41;order;avd;Arthur Van Dooren;223;LeFort Tripel (33cl);1.80
+20:57:49;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+20:57:51;checkin;cd;Caro Daems
+20:57:55;order;cd;Caro Daems;201;Stella Artois (25cl);0.80
+21:21:18;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+22:51:15;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+23:00:13;order;avd;Arthur Van Dooren;301;Chardonnay;3.50
+23:00:13;order;cd;Caro Daems;301;Chardonnay;3.50
+23:00:13;order;rl;Rune Laenen;301;Chardonnay;3.50
+23:00:13;order;tdk;Tibe De Kort;301;Chardonnay;3.50
+23:00:17;checkin;jl;Jorrit Leysen
+23:00:22;order;jl;Jorrit Leysen;211;Duvel (33cl);1.60
+23:00:29;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+23:33:00;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+23:35:18;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+23:35:19;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+23:35:28;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+23:35:29;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+23:35:38;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+23:35:48;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+00:08:57;order;avd;Arthur Van Dooren;404;Absolut Vodka;1.70
+00:08:57;order;cd;Caro Daems;404;Absolut Vodka;1.70
+00:08:57;order;cd;Caro Daems;211;Duvel (33cl);1.60
+00:08:57;order;jl;Jorrit Leysen;404;Absolut Vodka;1.70
+00:08:57;order;tdk;Tibe De Kort;404;Absolut Vodka;1.70
+00:09:08;order;avd;Arthur Van Dooren;404;Absolut Vodka;1.70
+00:37:08;order;jl;Jorrit Leysen;211;Duvel (33cl);1.60
+13:09:58;order;jl;Jorrit Leysen;301;Chardonnay;3.50
+13:15:02;order;cd;Caro Daems;999;Eigen creatie;3.00
+13:15:02;order;avd;Arthur Van Dooren;999;Eigen creatie;3.00
+13:15:02;order;avd;Arthur Van Dooren;999;Eigen creatie;3.00
+13:15:43;order;jl;Jorrit Leysen;502;Daiquiri;3.00
+13:15:43;order;cd;Caro Daems;502;Daiquiri;3.00
+13:15:49;order;jl;Jorrit Leysen;502;Daiquiri;3.00
+13:17:33;order;avd;Arthur Van Dooren;404;Absolut Vodka;1.70
+13:17:33;order;jl;Jorrit Leysen;404;Absolut Vodka;1.70
+13:18:17;order;jl;Jorrit Leysen;601;Cola;0.80
+13:18:27;checkin;sv;Senne Vissers
+13:18:30;order;sv;Senne Vissers;601;Cola;0.80
+13:18:48;order;rp;Ruan Pauwlussen;601;Cola;0.80
+13:18:51;order;rp;Ruan Pauwlussen;601;Cola;0.80
+13:18:56;order;rp;Ruan Pauwlussen;601;Cola;0.80
+13:19:12;order;rl;Rune Laenen;404;Absolut Vodka;1.70
+13:19:41;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+13:19:59;order;jl;Jorrit Leysen;101;Stella Artois vat (25cl);1.10
+13:20:29;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+13:20:33;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+13:20:37;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+13:22:01;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+13:24:09;order;tdk;Tibe De Kort;218;Westmalle Extra (33cl);1.50
+13:24:37;order;rl;Rune Laenen;404;Absolut Vodka;1.70
+13:29:05;order;avd;Arthur Van Dooren;999;Kapsolon kebab;11.00
+13:29:23;order;cd;Caro Daems;999;Durum kebab;7.00
+13:30:07;order;rp;Ruan Pauwlussen;999;Pizza prosciutto;5.00
+13:30:30;order;cd;Caro Daems;999;Pizza prosciutto;4.00
+13:30:59;order;rl;Rune Laenen;999;Pizza gemengd;7.50
+13:31:08;order;tdk;Tibe De Kort;999;Pizza gemengd;7.50
+13:32:58;order;avd;Arthur Van Dooren;404;Absolut Vodka;1.70
+13:33:38;order;jl;Jorrit Leysen;502;Daiquiri;3.00
+13:33:59;order;avd;Arthur Van Dooren;1000;Op poef;15.8
+13:33:59;checkout;avd;Arthur Van Dooren
+13:34:03;order;cd;Caro Daems;1000;Op poef;-24.6
+13:34:03;checkout;cd;Caro Daems
+13:34:04;order;jl;Jorrit Leysen;1000;Op poef;-21.0
+13:34:04;checkout;jl;Jorrit Leysen
+13:34:05;order;rl;Rune Laenen;1000;Op poef;-21.6
+13:34:05;checkout;rl;Rune Laenen
+13:34:07;order;rp;Ruan Pauwlussen;1000;Op poef;-7.4
+13:34:07;checkout;rp;Ruan Pauwlussen
+13:34:14;order;sv;Senne Vissers;1000;Op poef;-0.8
+13:34:14;checkout;sv;Senne Vissers
+13:34:19;order;tdk;Tibe De Kort;1000;Afgerekend;-21.9
+13:34:19;checkout;tdk;Tibe De Kort

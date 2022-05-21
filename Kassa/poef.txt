@@ -1,0 +1,52 @@
+03 Apr 2022 om 18:24;avd;Arthur Van Dooren;47.2
+03 Apr 2022 om 18:24;bvl;Brent Van Laerhoven;9.0
+03 Apr 2022 om 18:24;cd;Caro Daems;12.0
+03 Apr 2022 om 18:24;jl;Jorrit Leysen;10.1
+03 Apr 2022 om 18:24;nvb;Nalani Van Beemen;13.0
+03 Apr 2022 om 18:24;rp;Ruan Pauwlussen;16.4
+03 Apr 2022 om 18:24;sv;Senne Vissers;9.0
+23 Apr 2022 om 02:40;avd;Arthur Van Dooren;18.9
+23 Apr 2022 om 02:40;cb;Cathlyne Boeckmans;11.6
+23 Apr 2022 om 02:40;rd;Roel Dooms;0.8
+23 Apr 2022 om 02:40;rl;Rune Laenen;20.8
+23 Apr 2022 om 02:40;rm;Ries Maes;3.4
+26 Apr 2022 om 12:37;avd;Arthur Van Dooren;-3.4
+26 Apr 2022 om 12:37;jl;Jorrit Leysen;14.1
+28 Apr 2022 om 13:33;avd;Arthur Van Dooren;-15.8
+28 Apr 2022 om 13:34;cd;Caro Daems;24.6
+28 Apr 2022 om 13:34;jl;Jorrit Leysen;21.0
+28 Apr 2022 om 13:34;rl;Rune Laenen;21.6
+28 Apr 2022 om 13:34;rp;Ruan Pauwlussen;7.4
+28 Apr 2022 om 13:34;sv;Senne Vissers;0.8
+04 May 2022 om 14:26;avd;Arthur Van Dooren;17.3
+04 May 2022 om 14:26;cb;Cathlyne Boeckmans;4.2
+04 May 2022 om 14:26;cd;Caro Daems;4.5
+04 May 2022 om 14:27;jl;Jorrit Leysen;15.0
+04 May 2022 om 14:27;sv;Senne Vissers;1.6
+05 May 2022 om 14:33;rl;Rune Laenen;pay
+05 May 2022 om 14:37;cb;Cathlyne Boeckmans;pay
+07 May 2022 om 15:11;avd;Arthur Van Dooren;8.5
+07 May 2022 om 15:11;bh;Britt Huysmans;8.5
+07 May 2022 om 15:11;cb;Cathlyne Boeckmans;8.5
+07 May 2022 om 15:11;rl;Rune Laenen;8.5
+08 May 2022 om 15:18;cb;Cathlyne Boeckmans;pay
+08 May 2022 om 15:18;bh;Britt Huysmans;pay
+08 May 2022 om 15:18;rl;Rune Laenen;pay
+09 May 2022 om 14:53;avd;Arthur Van Dooren;11.9
+09 May 2022 om 14:53;cd;Caro Daems;-12.1
+09 May 2022 om 14:53;jl;Jorrit Leysen;6.8
+09 May 2022 om 14:53;rp;Ruan Pauwlussen;1.6
+09 May 2022 om 14:53;sv;Senne Vissers;0.8
+09 May 2022 om 16:18;rm;Ries Maes;8.8
+10 May 2022 om 16:22;avd;Arthur Van Dooren;pay
+10 May 2022 om 16:41;jl;Jorrit Leysen;pay
+10 May 2022 om 16:41;rp;Ruan Pauwlussen;pay
+10 May 2022 om 16:41;bvl;Brent Van Laerhoven;pay
+10 May 2022 om 17:32;nvb;Nalani Van Beemen;pay
+10 May 2022 om 17:32;sv;Senne Vissers;pay
+15 May 2022 om 15:59;avd;Arthur Van Dooren;8.2
+15 May 2022 om 15:59;cd;Caro Daems;0.3
+15 May 2022 om 15:59;jl;Jorrit Leysen;4.6
+16 May 2022 om 16:03;rm;Ries Maes;pay
+16 May 2022 om 16:34;jl;Jorrit Leysen;pay
+16 May 2022 om 16:34;avd;Arthur Van Dooren;pay

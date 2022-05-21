@@ -1,0 +1,56 @@
+datum: 08-05-2022
+verwarming: False
+
+//Logboek
+15:06:08;checkin;avd;Arthur Van Dooren
+15:06:08;checkin;rl;Rune Laenen
+15:06:08;checkin;tdk;Tibe De Kort
+15:06:08;checkin;cb;Cathlyne Boeckmans
+15:06:08;checkin;bh;Britt Huysmans
+15:06:31;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+15:06:31;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+15:06:31;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+15:06:31;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+15:06:31;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+15:06:31;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+15:06:31;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+15:06:31;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+15:06:31;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+15:06:31;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+15:06:31;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+15:06:31;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+15:06:31;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+15:06:31;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+15:06:31;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+15:06:31;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+15:06:31;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+15:06:31;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+15:07:45;order;cb;Cathlyne Boeckmans;999;Smirnoff ICE;4.1
+15:07:45;order;bh;Britt Huysmans;999;Smirnoff ICE;4.1
+15:08:39;order;bh;Britt Huysmans;408;Passoa;1.30
+15:08:39;order;cb;Cathlyne Boeckmans;408;Passoa;1.30
+15:08:39;order;bh;Britt Huysmans;408;Passoa;1.30
+15:08:39;order;cb;Cathlyne Boeckmans;408;Passoa;1.30
+15:08:39;order;bh;Britt Huysmans;408;Passoa;1.30
+15:08:39;order;cb;Cathlyne Boeckmans;408;Passoa;1.30
+15:08:39;order;bh;Britt Huysmans;408;Passoa;1.30
+15:08:39;order;cb;Cathlyne Boeckmans;408;Passoa;1.30
+15:08:39;order;bh;Britt Huysmans;408;Passoa;1.30
+15:08:39;order;cb;Cathlyne Boeckmans;408;Passoa;1.30
+15:08:39;order;bh;Britt Huysmans;408;Passoa;1.30
+15:08:39;order;cb;Cathlyne Boeckmans;408;Passoa;1.30
+15:21:09;order;cb;Cathlyne Boeckmans;999;Verdeling;-3.4
+15:21:09;order;bh;Britt Huysmans;999;Verdeling;-3.4
+15:21:22;order;tdk;Tibe De Kort;999;Verdeling;3.7
+15:21:22;order;rl;Rune Laenen;999;Verdeling;3.7
+15:21:22;order;avd;Arthur Van Dooren;999;Verdeling;3.7
+15:21:32;order;avd;Arthur Van Dooren;1000;Op poef;-8.5
+15:21:32;checkout;avd;Arthur Van Dooren
+15:21:35;order;bh;Britt Huysmans;1000;Op poef;-8.5
+15:21:35;checkout;bh;Britt Huysmans
+15:21:35;order;cb;Cathlyne Boeckmans;1000;Op poef;-8.5
+15:21:35;checkout;cb;Cathlyne Boeckmans
+15:21:36;order;rl;Rune Laenen;1000;Op poef;-8.5
+15:21:36;checkout;rl;Rune Laenen
+15:21:36;order;tdk;Tibe De Kort;1000;Betaald;-8.5
+15:21:36;checkout;tdk;Tibe De Kort

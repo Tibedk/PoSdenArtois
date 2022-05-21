@@ -1,0 +1,46 @@
+datum: 15-05-2022
+verwarming: False
+
+//Logboek
+21:10:52;checkin;tdk;Tibe De Kort
+21:19:34;checkin;avd;Arthur Van Dooren
+21:19:57;order;avd;Arthur Van Dooren;605;Water;0.40
+21:20:01;order;tdk;Tibe De Kort;202;Cara pils (25cl);0.30
+21:27:45;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+22:02:55;checkin;cd;Caro Daems
+22:03:10;order;tdk;Tibe De Kort;202;Cara pils (25cl);0.30
+22:03:10;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+22:03:10;order;cd;Caro Daems;202;Cara pils (25cl);0.30
+15:54:34;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+15:54:34;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+15:54:34;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+15:54:34;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+15:54:34;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+15:54:34;order;avd;Arthur Van Dooren;202;Cara pils (25cl);0.30
+15:54:59;order;avd;Arthur Van Dooren;211;Duvel (33cl);1.60
+15:55:07;order;tdk;Tibe De Kort;202;Cara pils (25cl);0.30
+15:55:10;order;tdk;Tibe De Kort;202;Cara pils (25cl);0.30
+15:55:21;order;tdk;Tibe De Kort;217;Westmalle Dubbel (33cl);1.50
+15:55:24;order;tdk;Tibe De Kort;212;Duvel 666 (33cl);1.70
+15:55:45;checkin;jl;Jorrit Leysen
+15:55:45;checkin;dvg;Daisy Van Gestel
+15:55:53;order;jl;Jorrit Leysen;601;Cola;0.80
+15:55:56;order;jl;Jorrit Leysen;601;Cola;0.80
+15:55:59;order;jl;Jorrit Leysen;601;Cola;0.80
+15:56:23;order;jl;Jorrit Leysen;999;Cola (café);2.2
+15:57:04;order;avd;Arthur Van Dooren;999;Kwak (café);3.8
+15:57:46;order;tdk;Tibe De Kort;999;Drank (café);3.5
+15:57:46;order;dvg;Daisy Van Gestel;999;Drank (café);3.5
+15:58:00;order;dvg;Daisy Van Gestel;211;Duvel (33cl);1.60
+15:58:10;order;dvg;Daisy Van Gestel;216;Westmalle Tripel (33cl);1.80
+15:58:20;order;dvg;Daisy Van Gestel;214;Vedett IPA (33cl);1.50
+15:59:28;order;avd;Arthur Van Dooren;1000;Op poef;-8.2
+15:59:28;checkout;avd;Arthur Van Dooren
+15:59:32;order;cd;Caro Daems;1000;Op poef;-0.3
+15:59:32;checkout;cd;Caro Daems
+15:59:35;order;dvg;Daisy Van Gestel;1000;Afgerekend;-8.4
+15:59:35;checkout;dvg;Daisy Van Gestel
+15:59:37;order;jl;Jorrit Leysen;1000;Op poef;-4.6
+15:59:37;checkout;jl;Jorrit Leysen
+15:59:41;order;tdk;Tibe De Kort;1000;Afgerekend;-7.9
+15:59:41;checkout;tdk;Tibe De Kort

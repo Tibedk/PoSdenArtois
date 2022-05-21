@@ -1,0 +1,69 @@
+datum: 10-05-2022
+verwarming: False
+
+//Logboek
+14:40:31;checkin;tdk;Tibe De Kort
+14:40:31;checkin;avd;Arthur Van Dooren
+14:40:36;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:40:36;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+14:40:41;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:40:41;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+14:40:49;order;tdk;Tibe De Kort;217;Westmalle Dubbel (33cl);1.50
+14:40:54;order;avd;Arthur Van Dooren;216;Westmalle Tripel (33cl);1.80
+14:41:09;checkin;jl;Jorrit Leysen
+14:41:09;checkin;rp;Ruan Pauwlussen
+14:41:09;checkin;cd;Caro Daems
+14:41:33;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:41:33;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+14:41:33;order;jl;Jorrit Leysen;201;Stella Artois (25cl);0.80
+14:41:42;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:41:42;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+14:41:42;order;jl;Jorrit Leysen;201;Stella Artois (25cl);0.80
+14:42:07;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:42:07;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+14:42:07;order;jl;Jorrit Leysen;201;Stella Artois (25cl);0.80
+14:42:35;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:42:38;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:42:47;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+14:42:49;order;avd;Arthur Van Dooren;201;Stella Artois (25cl);0.80
+14:42:52;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+14:43:24;order;jl;Jorrit Leysen;217;Westmalle Dubbel (33cl);1.50
+14:43:37;order;jl;Jorrit Leysen;999;Friet;-4
+14:44:09;order;jl;Jorrit Leysen;506;Vodka – RedBull;2.50
+14:44:09;order;cd;Caro Daems;506;Vodka – RedBull;2.50
+14:44:35;order;jl;Jorrit Leysen;510;Taquila Sunrise;2.90
+14:46:57;order;tdk;Tibe De Kort;212;Duvel 666 (33cl);1.70
+14:47:03;order;jl;Jorrit Leysen;211;Duvel (33cl);1.60
+14:47:05;order;jl;Jorrit Leysen;211;Duvel (33cl);1.60
+14:47:13;order;cd;Caro Daems;509;Possoa-Orange;2.00
+14:47:39;order;avd;Arthur Van Dooren;999;Creatie;2
+14:47:39;order;jl;Jorrit Leysen;999;Creatie;2
+14:47:59;order;rp;Ruan Pauwlussen;601;Cola;0.80
+14:48:10;order;rp;Ruan Pauwlussen;601;Cola;0.80
+14:48:28;order;avd;Arthur Van Dooren;602;Fanta;0.80
+14:49:38;checkin;sv;Senne Vissers
+14:49:43;order;sv;Senne Vissers;601;Cola;0.80
+14:50:40;order;jl;Jorrit Leysen;404;Absolut Vodka;1.70
+14:50:40;order;cd;Caro Daems;404;Absolut Vodka;1.70
+14:50:40;order;avd;Arthur Van Dooren;404;Absolut Vodka;1.70
+14:50:51;order;jl;Jorrit Leysen;404;Absolut Vodka;1.70
+14:50:51;order;cd;Caro Daems;404;Absolut Vodka;1.70
+16:17:17;order;jl;Jorrit Leysen;999;Friet Ries;-8.8
+14:51:01;order;jl;Jorrit Leysen;404;Absolut Vodka;1.70
+14:47:39;order;cd;Caro Daems;999;Al betaald;-20.0
+14:53:36;order;avd;Arthur Van Dooren;1000;Op poef;-11.9
+14:53:36;checkout;avd;Arthur Van Dooren
+14:53:40;order;cd;Caro Daems;1000;Op poef;12.1
+14:53:40;checkout;cd;Caro Daems
+14:53:45;order;jl;Jorrit Leysen;1000;Op poef;-6.8
+14:53:45;checkout;jl;Jorrit Leysen
+14:53:50;order;rp;Ruan Pauwlussen;1000;Op poef;-1.6
+14:53:50;checkout;rp;Ruan Pauwlussen
+14:53:54;order;sv;Senne Vissers;1000;Op poef;-0.8
+14:53:54;checkout;sv;Senne Vissers
+14:53:57;order;tdk;Tibe De Kort;1000;Afgerekend;-9.6
+14:53:57;checkout;tdk;Tibe De Kort
+16:15:45;checkin;rm;Ries Maes
+16:16:48;order;rm;Ries Maes;999;Friet Ries;8.8
+16:18:41;order;rm;Ries Maes;1000;Op poef;-8.8
+16:18:41;checkout;rm;Ries Maes

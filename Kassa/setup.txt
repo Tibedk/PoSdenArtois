@@ -1,0 +1,89 @@
+//Setup
+password:b';7x\xc3\xd1q<\x8b6\x81F~\xaf\x17;\xabA\xf1\xcf{F#\xfb\xd3r\x0f\x01\xcc\xf4I\xa9\xbe'
+verwarmingPerUur:1
+//Clients
+Tibe De Kort
+Rune Laenen
+Ries Maes
+Roel Dooms
+Senne Vissers
+Cathlyne Boeckmans
+Britt Huysmans
+Lotte Janssens
+Ruan Pauwlussen
+Arthur Van Dooren
+Jana De Sobrie
+Daisy Van Gestel
+Jitse Willekens
+Lynn De Moor
+Lander Boeckx
+Davit De Vleeshouwer
+Xanthe Bogaerts
+Jarka Vervloed
+Lorenzo De Pooter
+Nalani Van Beemen
+Jorrit Leysen
+Caro Daems
+Brent Van Laerhoven
+//End
+//Products
+101;Stella Artois vat (25cl);1.10
+102;Stella Artois vat (33cl);1.40
+111;Tripel Karmeliet (33cl);1.90
+201;Stella Artois (25cl);0.80
+202;Cara pils (25cl);0.30
+203;Super 8 Blache (33cl);1.30
+204;Liefmans Kriek (25cl);1.20
+205;Hoegaarden Rosé (25cl);1.10
+206;Desperados (33cl);2.00
+211;Duvel (33cl);1.60
+212;Duvel 666 (33cl);1.70
+213;Delirium Tremens (33cl);1.90
+214;Vedett IPA (33cl);1.50
+215;La Chouffe (33cl);1.60
+216;Westmalle Tripel (33cl);1.80
+217;Westmalle Dubbel (33cl);1.50
+218;Westmalle Extra (33cl);1.50
+219;Chimay (33cl);2.20
+220;2290 (33cl);1.90
+221;Kasteel Rouge (33cl);1.50
+222;Leffe Bruin (33cl);1.50
+223;LeFort Tripel (33cl);1.80
+301;Chardonnay;3.50
+302;Sauvignon;4.00
+311;Cabernet Sauvignon;4.00
+312;Merlot;4.00
+401;Jägermeister;1.50
+402;Amaretto Disaronno;1.50
+403;Havana wit (rum);1.50
+404;Absolut Vodka;1.70
+405;Jenever Appel;1.00
+406;Cuarenta Y Tres (licor 43);1.80
+407;Tequila;1.90
+408;Passoa;1.30
+501;Mojito;3.00
+502;Daiquiri;3.00
+503;Cuba Libre;2.70
+504;Amaretto Sour;2.50
+505;Licor 43 Sour;2.50
+506;Vodka – RedBull;2.50
+507;Vodka – Cola;2.50
+508;Amaretto – Cola;2.50
+509;Possoa-Orange;2.00
+510;Taquila Sunrise;2.90
+551;Homemade lemonade;2.40
+601;Cola;0.80
+602;Fanta;0.80
+603;Ice Tea;0.80
+604;Fruitsap;0.40
+605;Water;0.40
+701;Chips (small);0.50
+702;Chips (medium);1.00
+703;Chips (large);1.50
+704;Croque Ham/kaas;1.00
+705;Croque Salami/kaas;1.00
+706;Croque Tomaten/ham/kaas;1.00
+707;Croque Bananen/chocopasta;1.20
+708;Croque Jalapeño/Tomaten/kaas;1.20
+709;Portie Nacho's;4.00
+//End

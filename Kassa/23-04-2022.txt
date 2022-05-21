@@ -1,0 +1,56 @@
+datum: 23-04-2022
+verwarming: False
+
+//Logboek
+20:11:01;checkin;rm;Ries Maes
+20:11:01;checkin;tdk;Tibe De Kort
+20:13:21;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+20:14:10;order;rm;Ries Maes;601;Cola;0.80
+21:12:03;checkin;rl;Rune Laenen
+21:12:16;order;tdk;Tibe De Kort;201;Stella Artois (25cl);0.80
+21:12:40;order;rl;Rune Laenen;201;Stella Artois (25cl);0.80
+21:15:33;checkin;rd;Roel Dooms
+21:15:49;order;rd;Roel Dooms;201;Stella Artois (25cl);0.80
+21:28:28;order;rm;Ries Maes;601;Cola;0.80
+21:34:24;checkin;cb;Cathlyne Boeckmans
+21:49:54;order;rm;Ries Maes;601;Cola;0.80
+21:52:13;order;rd;Roel Dooms;1000;Op poef;-0.8
+21:52:13;checkout;rd;Roel Dooms
+21:56:13;checkin;avd;Arthur Van Dooren
+21:57:02;order;avd;Arthur Van Dooren;222;Leffe Bruin (33cl);1.50
+22:04:55;order;rl;Rune Laenen;211;Duvel (33cl);1.50
+00:50:27;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+00:50:32;order;rl;Rune Laenen;101;Stella Artois vat (25cl);1.10
+00:50:32;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+00:50:41;order;tdk;Tibe De Kort;999;Naft Ries;2
+00:50:41;order;rl;Rune Laenen;999;Naft Ries;2
+00:50:41;order;avd;Arthur Van Dooren;999;Naft Ries;2
+00:50:41;order;cb;Cathlyne Boeckmans;999;Naft Ries;2
+00:51:11;order;rm;Ries Maes;999;Naft;-6
+00:51:38;order;tdk;Tibe De Kort;999;Bowling;7
+00:51:38;order;rm;Ries Maes;999;Bowling;7
+00:51:38;order;rl;Rune Laenen;999;Bowling;7
+00:51:38;order;cb;Cathlyne Boeckmans;999;Bowling;7
+00:51:38;order;avd;Arthur Van Dooren;999;Bowling;7
+00:51:52;order;tdk;Tibe De Kort;999;Bowl Westmalle Trippel;3
+00:51:52;order;rl;Rune Laenen;999;Bowl Westmalle Trippel;3
+00:51:52;order;avd;Arthur Van Dooren;999;Bowl Westmalle Trippel;3
+00:52:01;order;cb;Cathlyne Boeckmans;999;Bowl Kriek;2.6
+00:52:14;order;tdk;Tibe De Kort;999;Bowl Citroen jen;3.2
+00:52:14;order;avd;Arthur Van Dooren;999;Bowl Citroen jen;3.2
+00:52:14;order;rl;Rune Laenen;999;Bowl Citroen jen;3.2
+01:58:27;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+01:58:27;order;rl;Rune Laenen;101;Stella Artois vat (25cl);1.10
+01:58:27;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+02:39:30;order;rl;Rune Laenen;101;Stella Artois vat (25cl);1.10
+02:39:30;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+02:40:11;order;avd;Arthur Van Dooren;1000;Op poef;-18.9
+02:40:11;checkout;avd;Arthur Van Dooren
+02:40:11;order;cb;Cathlyne Boeckmans;1000;Op poef;-11.6
+02:40:11;checkout;cb;Cathlyne Boeckmans
+02:40:14;order;rl;Rune Laenen;1000;Op poef;-20.8
+02:40:14;checkout;rl;Rune Laenen
+02:40:15;order;rm;Ries Maes;1000;Op poef;-3.4
+02:40:15;checkout;rm;Ries Maes
+02:40:15;order;tdk;Tibe De Kort;1000;Op poef;-20.1
+02:40:15;checkout;tdk;Tibe De Kort

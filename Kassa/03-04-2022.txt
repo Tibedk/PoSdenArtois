@@ -1,0 +1,53 @@
+datum: 03-04-2022
+verwarming: False
+
+//Logboek
+12:27:51;checkin;tdk;Tibe De Kort
+12:27:51;checkin;bvl;Brent Van Laerhoven
+12:27:51;checkin;nvb;Nalani Van Beemen
+12:27:51;checkin;jl;Jorrit Leysen
+12:27:51;checkin;cd;Caro Daems
+12:27:51;checkin;sv;Senne Vissers
+12:27:51;checkin;avd;Arthur Van Dooren
+12:27:51;checkin;rp;Ruan Pauwlussen
+12:30:43;order;sv;Senne Vissers;999;Drank skien;9
+12:30:43;order;jl;Jorrit Leysen;999;Drank skien;5.5
+12:30:43;order;bvl;Brent Van Laerhoven;999;Drank skien;9
+12:30:58;order;cd;Caro Daems;999;Drank skien;12
+12:31:36;order;nvb;Nalani Van Beemen;999;Drank skien;13
+12:32:23;order;rp;Ruan Pauwlussen;999;Drank skien;12
+12:32:52;order;avd;Arthur Van Dooren;999;Drank skien;15
+12:33:15;order;tdk;Tibe De Kort;999;Drank skien;15
+12:34:42;order;jl;Jorrit Leysen;999;Frieten op school;4.6
+12:35:04;order;avd;Arthur Van Dooren;999;Frieten op school;7.8
+12:35:19;order;tdk;Tibe De Kort;999;Frieten op school;7.4
+12:36:20;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+12:36:20;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+12:36:20;order;rp;Ruan Pauwlussen;101;Stella Artois vat (25cl);1.10
+12:36:23;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+12:36:23;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+12:36:23;order;rp;Ruan Pauwlussen;101;Stella Artois vat (25cl);1.10
+12:36:29;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+12:36:29;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+12:36:29;order;rp;Ruan Pauwlussen;101;Stella Artois vat (25cl);1.10
+12:36:39;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+12:36:39;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+12:36:39;order;rp;Ruan Pauwlussen;101;Stella Artois vat (25cl);1.10
+12:37:12;order;avd;Arthur Van Dooren;999;Geleend geld;10
+12:39:05;order;avd;Arthur Van Dooren;999;Feestavond 10/04;10.0
+18:24:23;order;avd;Arthur Van Dooren;1000;Op poef;-47.2
+18:24:23;checkout;avd;Arthur Van Dooren
+18:24:29;order;bvl;Brent Van Laerhoven;1000;Op poef;-9.0
+18:24:29;checkout;bvl;Brent Van Laerhoven
+18:24:30;order;cd;Caro Daems;1000;Op poef;-12.0
+18:24:30;checkout;cd;Caro Daems
+18:24:30;order;jl;Jorrit Leysen;1000;Op poef;-10.1
+18:24:30;checkout;jl;Jorrit Leysen
+18:24:31;order;nvb;Nalani Van Beemen;1000;Op poef;-13.0
+18:24:31;checkout;nvb;Nalani Van Beemen
+18:24:32;order;rp;Ruan Pauwlussen;1000;Op poef;-16.4
+18:24:32;checkout;rp;Ruan Pauwlussen
+18:24:33;order;sv;Senne Vissers;1000;Op poef;-9.0
+18:24:33;checkout;sv;Senne Vissers
+18:24:50;order;tdk;Tibe De Kort;1000;Afgerekend;-26.8
+18:24:50;checkout;tdk;Tibe De Kort

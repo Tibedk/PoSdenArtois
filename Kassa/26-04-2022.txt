@@ -1,0 +1,36 @@
+datum: 26-04-2022
+verwarming: True
+
+//Logboek
+20:12:47;checkin;tdk;Tibe De Kort
+20:12:47;checkin;avd;Arthur Van Dooren
+20:13:15;order;avd;Arthur Van Dooren;999;Al betaald;-20
+20:14:10;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+20:14:10;order;avd;Arthur Van Dooren;101;Stella Artois vat (25cl);1.10
+21:01:36;order;tdk;Tibe De Kort;214;Vedett IPA (33cl);1.50
+21:01:45;order;avd;Arthur Van Dooren;216;Westmalle Tripel (33cl);1.80
+21:49:15;checkin;jl;Jorrit Leysen
+21:49:23;order;jl;Jorrit Leysen;212;Duvel 666 (33cl);1.70
+22:06:55;order;tdk;Tibe De Kort;999;Eigen creatie coctail;3.00
+22:06:55;order;avd;Arthur Van Dooren;999;Eigen creatie coctail;3.00
+22:06:55;order;jl;Jorrit Leysen;999;Eigen creatie coctail;3.00
+22:41:11;order;tdk;Tibe De Kort;502;Daiquiri;3.00
+22:41:11;order;jl;Jorrit Leysen;502;Daiquiri;3.00
+22:41:22;order;avd;Arthur Van Dooren;404;Absolut Vodka;1.70
+12:22:25;order;avd;Arthur Van Dooren;404;Absolut Vodka;1.70
+12:22:25;order;jl;Jorrit Leysen;404;Absolut Vodka;1.70
+23:42:14;order;tdk;Tibe De Kort;101;Stella Artois vat (25cl);1.10
+23:42:22;order;jl;Jorrit Leysen;212;Duvel 666 (33cl);1.70
+23:42:36;order;avd;Arthur Van Dooren;220;2290 (33cl);1.90
+23:44:55;order;tdk;Tibe De Kort;402;Amaretto Disaronno;1.50
+23:44:55;order;avd;Arthur Van Dooren;402;Amaretto Disaronno;1.50
+23:44:55;order;jl;Jorrit Leysen;402;Amaretto Disaronno;1.50
+23:56:56;order;avd;Arthur Van Dooren;999;Pizza;2.1
+00:12:51;order;jl;Jorrit Leysen;214;Vedett IPA (33cl);1.50
+00:12:58;order;avd;Arthur Van Dooren;216;Westmalle Tripel (33cl);1.80
+00:31:34;order;jl;Jorrit Leysen;1000;Op poef;-14.1
+00:31:34;checkout;jl;Jorrit Leysen
+00:58:39;order;avd;Arthur Van Dooren;1000;Op poef;3.4
+00:58:39;checkout;avd;Arthur Van Dooren
+00:58:42;order;tdk;Tibe De Kort;1000;Afgerekend;-11.2
+00:58:42;checkout;tdk;Tibe De Kort
